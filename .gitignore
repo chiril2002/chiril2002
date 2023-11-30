@@ -393,5 +393,5 @@ FodyWeavers.xsd
 
 
 #ignore
-*.png
 */.png
+*.png
